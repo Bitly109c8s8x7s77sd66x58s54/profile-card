@@ -1,0 +1,82 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: gray;
+  text-align: center;
+  padding-top: 50%;
+}
+
+.one {
+  color: black;
+}
+
+.two {
+  color: black;
+}
+
+.three {
+  color: black;
+}
+
+.four {
+  color: black;
+}
+
+.five {
+  color: black;
+}
+
+.six {
+  color: black;
+}
+
+.seven {
+  color: black;
+}
+
+.eight {
+  color: black;
+}
+
+.nine {
+  color: black;
+}
+
+.ten {
+  color: black;
+}
+
+.eleven {
+  color: black;
+}
+
+.twelve {
+  color: black;
+}
+
+.thirteen {
+  color: black;
+}
+
+.fourteen {
+  color: black;
+}
+
+.fifteen {
+  color: black;
+}
+
+.sixteen {
+  color: black;
+}
+
+.seventeen {
+  color: black;
+}
+
+span:root {
+  --animate-duration: 800ms;
+  --animate-delay: 0.9s;
+}
