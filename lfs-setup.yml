@@ -1,0 +1,3 @@
+              
+- name: Extended cached LFS checkout
+  uses: apperry/action-cached-lfs-checkout@v1.1.3.2
